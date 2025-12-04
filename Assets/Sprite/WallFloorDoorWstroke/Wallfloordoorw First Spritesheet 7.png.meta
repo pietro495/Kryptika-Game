@@ -1,0 +1,1299 @@
+fileFormatVersion: 2
+guid: 280cfdbf312db3c4ea71cb6feb2bc3f3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5742054689581552369
+    second: Wallfloordoorw First Spritesheet 7_0
+  - first:
+      213: 3369050327821453422
+    second: Wallfloordoorw First Spritesheet 7_1
+  - first:
+      213: 9208663694641597207
+    second: Wallfloordoorw First Spritesheet 7_2
+  - first:
+      213: -2960570915376724120
+    second: Wallfloordoorw First Spritesheet 7_3
+  - first:
+      213: -5220225301908631268
+    second: Wallfloordoorw First Spritesheet 7_4
+  - first:
+      213: -7349138182597062527
+    second: Wallfloordoorw First Spritesheet 7_5
+  - first:
+      213: 2136945849549761444
+    second: Wallfloordoorw First Spritesheet 7_6
+  - first:
+      213: 4685236751490284243
+    second: Wallfloordoorw First Spritesheet 7_7
+  - first:
+      213: 934940326898211034
+    second: Wallfloordoorw First Spritesheet 7_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f2df554150efaf40800000000000000
+      internalID: 5742054689581552369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6806345c6541ce20800000000000000
+      internalID: 3369050327821453422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_2
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b062737debbcf70800000000000000
+      internalID: 9208663694641597207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_3
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8670e903070f9e6d0800000000000000
+      internalID: -2960570915376724120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11da30feb80e87b0800000000000000
+      internalID: -5220225301908631268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_5
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180da05a2cd920a90800000000000000
+      internalID: -7349138182597062527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_6
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aba8aa9de4f7ad10800000000000000
+      internalID: 2136945849549761444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_7
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dafe25800e450140800000000000000
+      internalID: 4685236751490284243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_8
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad894f6164399fc00800000000000000
+      internalID: 934940326898211034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_9
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed134cefb7e8a964e84e3ad0f4aefcee
+      internalID: -1140063516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a2ef9384629c0479abde780009f66b
+      internalID: 1314262091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_11
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8409f119499f8a2419781feba831a74b
+      internalID: -1282310925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_12
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f15adf0c0a6aa4dad2d5e438b9c5cc
+      internalID: 663592533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_13
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83af9d156cf92ef4699781ceffffd955
+      internalID: -2073868497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_14
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01c3942022699d439a73187ad4836f8
+      internalID: -274167958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_15
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81df8ad00ba0fe14baf5e752be5ac1f8
+      internalID: -378398452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_16
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4b4ca4a1f64894d93a962e5fd739a6
+      internalID: -395332955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d456c1eae8376849adc72e31794be68
+      internalID: 540933747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed903fb2e33ec84f80ffd023135721b
+      internalID: -1222000025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_19
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ecfd071dcc2b647829d0ae75df1f3c
+      internalID: -137102701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_20
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f365a8a688f98c4f97e39b3d9175800
+      internalID: 713146147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_21
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8cf50295a109f479992d4434f39996
+      internalID: -2015905869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_22
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac3ddc2a7f0067478d39c1fb136602e
+      internalID: -878390041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_23
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbba5142459f024aabeeb6940ff033e
+      internalID: 329273747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_24
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f9b9babef4e3346aa139f8b8553058
+      internalID: 439523246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_25
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08065c32cac939d4a9ad073aeab482a2
+      internalID: -1594509632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_26
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb922cf82bdbc6449749a544d1983e9
+      internalID: -667185682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_27
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0798fab55f6734a9ab2a1eb4c25ef5
+      internalID: 674784876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_28
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48a7e390b5b0684aaf1f8c16ac2e6c5
+      internalID: -226493370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_29
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ff38a3cf63c0e4eb168b3eea68e433
+      internalID: -446976761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_30
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1810c8e7aee3b94e8406429317805c9
+      internalID: -487230543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_31
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9be0751a55274f428263c1b4249eda0
+      internalID: -1637229403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_32
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bf14958f9c2484daaa942729b19a19
+      internalID: -1910603142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_33
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d9ab1140f8ba14ea877118b5fe27d9
+      internalID: 1961692974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_34
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecca87457a462b4882875bf7f191c2d
+      internalID: 1964438578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_35
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c2e7c9496557b479e8aa32959d43f0
+      internalID: 525550044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_36
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e6dbd6780bb434d8fa13f01d7349c3
+      internalID: 1451264718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_37
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383c4cbda1bf4d147a39d2537522acc5
+      internalID: -1349074319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_38
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d758118e37645847b47d72764348ecd
+      internalID: -1562946186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_39
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a07414e64608a741b00dcc95091e733
+      internalID: 2099399962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_40
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f565d5266340a34785df16c3fbb63eb
+      internalID: -412556276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_41
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d079909c05732a4dbfe7c9fc201e9d7
+      internalID: 1062507340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_42
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cd48d840a574f4c8ef48882cf822ec
+      internalID: -737567840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_43
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5145650fb3b9414e80234ee42d1d0ef
+      internalID: 260459403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_44
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd78009393a24b43a3927594f0a6cb4
+      internalID: 1831150680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_45
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026356e3c37db054ea71e72d7a632335
+      internalID: -280061187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_46
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d635f291339f164e8c67bf559c7041f
+      internalID: -1638596193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_47
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3ba911717f9f140b91f69983f748ab
+      internalID: -66274315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wallfloordoorw First Spritesheet 7_48
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c794557120b5d2145a5e5e8589e2161f
+      internalID: -643006161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 99ec63fbb33c1814a8fc9163369ae457
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":100.0},"gridSpriteOffset":{"x":57.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Wallfloordoorw First Spritesheet 7_0: 5742054689581552369
+      Wallfloordoorw First Spritesheet 7_1: 3369050327821453422
+      Wallfloordoorw First Spritesheet 7_10: 1314262091
+      Wallfloordoorw First Spritesheet 7_11: -1282310925
+      Wallfloordoorw First Spritesheet 7_12: 663592533
+      Wallfloordoorw First Spritesheet 7_13: -2073868497
+      Wallfloordoorw First Spritesheet 7_14: -274167958
+      Wallfloordoorw First Spritesheet 7_15: -378398452
+      Wallfloordoorw First Spritesheet 7_16: -395332955
+      Wallfloordoorw First Spritesheet 7_17: 540933747
+      Wallfloordoorw First Spritesheet 7_18: -1222000025
+      Wallfloordoorw First Spritesheet 7_19: -137102701
+      Wallfloordoorw First Spritesheet 7_2: 9208663694641597207
+      Wallfloordoorw First Spritesheet 7_20: 713146147
+      Wallfloordoorw First Spritesheet 7_21: -2015905869
+      Wallfloordoorw First Spritesheet 7_22: -878390041
+      Wallfloordoorw First Spritesheet 7_23: 329273747
+      Wallfloordoorw First Spritesheet 7_24: 439523246
+      Wallfloordoorw First Spritesheet 7_25: -1594509632
+      Wallfloordoorw First Spritesheet 7_26: -667185682
+      Wallfloordoorw First Spritesheet 7_27: 674784876
+      Wallfloordoorw First Spritesheet 7_28: -226493370
+      Wallfloordoorw First Spritesheet 7_29: -446976761
+      Wallfloordoorw First Spritesheet 7_3: -2960570915376724120
+      Wallfloordoorw First Spritesheet 7_30: -487230543
+      Wallfloordoorw First Spritesheet 7_31: -1637229403
+      Wallfloordoorw First Spritesheet 7_32: -1910603142
+      Wallfloordoorw First Spritesheet 7_33: 1961692974
+      Wallfloordoorw First Spritesheet 7_34: 1964438578
+      Wallfloordoorw First Spritesheet 7_35: 525550044
+      Wallfloordoorw First Spritesheet 7_36: 1451264718
+      Wallfloordoorw First Spritesheet 7_37: -1349074319
+      Wallfloordoorw First Spritesheet 7_38: -1562946186
+      Wallfloordoorw First Spritesheet 7_39: 2099399962
+      Wallfloordoorw First Spritesheet 7_4: -5220225301908631268
+      Wallfloordoorw First Spritesheet 7_40: -412556276
+      Wallfloordoorw First Spritesheet 7_41: 1062507340
+      Wallfloordoorw First Spritesheet 7_42: -737567840
+      Wallfloordoorw First Spritesheet 7_43: 260459403
+      Wallfloordoorw First Spritesheet 7_44: 1831150680
+      Wallfloordoorw First Spritesheet 7_45: -280061187
+      Wallfloordoorw First Spritesheet 7_46: -1638596193
+      Wallfloordoorw First Spritesheet 7_47: -66274315
+      Wallfloordoorw First Spritesheet 7_48: -643006161
+      Wallfloordoorw First Spritesheet 7_5: -7349138182597062527
+      Wallfloordoorw First Spritesheet 7_6: 2136945849549761444
+      Wallfloordoorw First Spritesheet 7_7: 4685236751490284243
+      Wallfloordoorw First Spritesheet 7_8: 934940326898211034
+      Wallfloordoorw First Spritesheet 7_9: -1140063516
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

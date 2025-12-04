@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a62b92cd52ba86478557247f3e3e224, type: 3}
+  m_Name: PswSet
+  m_EditorClassIdentifier: Assembly-CSharp::PasswordSet
+  PasswordList:
+  - {fileID: 11400000, guid: b779f4acf0f76834688f9a3990ca5d4c, type: 2}
+  - {fileID: 11400000, guid: 3a7830e99550a6b48aed70ceb80c8d1b, type: 2}
+  - {fileID: 11400000, guid: b2dbd36b938dcd24e9de54f5b619def1, type: 2}
+  - {fileID: 11400000, guid: 1534e80de7913ef4988a6679910a80e9, type: 2}
+  - {fileID: 11400000, guid: f804bb4574e9db54a8fcd3d257ac9541, type: 2}
+  passwordPerRound: 5
+  minCorrectToPass: 5
+  shuffle: 1

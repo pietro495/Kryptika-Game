@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - SolidObjects
+  - Characters
+  - Interactable
+  - DialogLayer
+  - Professor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ground
+    uniqueID: 1260599527
+    locked: 0
+  - name: Collider
+    uniqueID: 1806167097
+    locked: 0
+  - name: Walls
+    uniqueID: 3671419249
+    locked: 0
+  - name: ClassRoomsObjs
+    uniqueID: 2384874673
+    locked: 0
+  - name: Player
+    uniqueID: 2895258515
+    locked: 0
+  - name: 
+    uniqueID: 1712650621
+    locked: 0
+  - name: 
+    uniqueID: 4015588797
+    locked: 0
+  - name: 
+    uniqueID: 845161071
+    locked: 0
+  m_RenderingLayers:
+  - Default

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d97ad6416768f6d45b63071abe351ed8, type: 3}
+  m_Name: 1Email 4
+  m_EditorClassIdentifier: Assembly-CSharp::PhishingEmail
+  sender: rimborso.immediato@agenzia-tributi-gov.com
+  subject: "Rimborso disponibile \u2013 Conferma urgente dei dati\n"
+  body: "Gentile contribuente,\ndai nostri calcoli risulta che ha diritto a un rimborso
+    immediato di 184,27\u20AC.\nTuttavia, non riusciamo ad elaborarlo a causa di
+    un errore nei dati bancari.\nLa preghiamo di correggerli entro 24 ore:\n <link>\nIn
+    caso contrario, il rimborso verr\xE0 annullato.\nAgenzia Tributi \u2013 Settore
+    Rimborsi"
+  isPhishing: 1
+  correctFeedback: "\u201CRimborso immediato\u201D senza avere fatto alcuna richiesta
+    \u2192 tipico esca."
+  incorrectFeedback: 

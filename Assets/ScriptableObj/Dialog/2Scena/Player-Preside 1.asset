@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8dd9590a38a7904ea4f3b4f1dd9776f, type: 3}
+  m_Name: Player-Preside 1
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueAsset
+  lines:
+  - speaker: Player
+    text: "Preside, il professor Bruno ha ricevuto una mail che sembrava provenire
+      dal registro elettronico. C\u2019era scritto di aggiornare le credenziali!"
+  - speaker: Preside
+    text: "Ah, s\xEC? E cosa \xE8 successo"
+  - speaker: Player
+    text: "Ha cliccato sul link e ha inserito i suoi dati\u2026 ma la mail era falsa.
+      Qualcuno lo ha ingannato e gli ha rubato le credenziali d\u2019accesso."
+  - speaker: Preside
+    text: "Come\u2026 un attacco informatico? Dentro la nostra scuola?"
+  - speaker: Player
+    text: "S\xEC,, esatto. \xC8 un tipo di truffa che si chiama phishing. L\u2019attaccante
+      ha usato un messaggio finto per spingerlo a consegnare i dati personali"
+  - speaker: Preside
+    text: "Capisco\u2026 non pensavo potesse succedere a noi. Hai idea di chi ci
+      sia dietro"
+  - speaker: Player
+    text: "Non ancora, ma ho scoperto che l\u2019e-mail \xE8 partita proprio da qui,
+      dal suo computer. Devo capire chi l\u2019ha inviata davvero"

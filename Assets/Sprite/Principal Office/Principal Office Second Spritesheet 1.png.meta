@@ -1,0 +1,2175 @@
+fileFormatVersion: 2
+guid: 6c118761d9f40c6478f5206200dfbf9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6600610087916990931
+    second: Principal Office Second Spritesheet 1_0
+  - first:
+      213: 5878740555221262217
+    second: Principal Office Second Spritesheet 1_1
+  - first:
+      213: 5902436802436782907
+    second: Principal Office Second Spritesheet 1_2
+  - first:
+      213: -450906405004761218
+    second: Principal Office Second Spritesheet 1_3
+  - first:
+      213: -8164072378117305575
+    second: Principal Office Second Spritesheet 1_4
+  - first:
+      213: -4914984303147042731
+    second: Principal Office Second Spritesheet 1_5
+  - first:
+      213: 7616459704773895204
+    second: Principal Office Second Spritesheet 1_6
+  - first:
+      213: 6018642165454505758
+    second: Principal Office Second Spritesheet 1_7
+  - first:
+      213: 8363941013644139392
+    second: Principal Office Second Spritesheet 1_8
+  - first:
+      213: -2375499866487636639
+    second: Principal Office Second Spritesheet 1_9
+  - first:
+      213: 7505748183188493572
+    second: Principal Office Second Spritesheet 1_10
+  - first:
+      213: 6162821953386359904
+    second: Principal Office Second Spritesheet 1_11
+  - first:
+      213: 1717488276347689257
+    second: Principal Office Second Spritesheet 1_12
+  - first:
+      213: -380284520030322209
+    second: Principal Office Second Spritesheet 1_13
+  - first:
+      213: 1900700729550312080
+    second: Principal Office Second Spritesheet 1_14
+  - first:
+      213: -5914255185193140236
+    second: Principal Office Second Spritesheet 1_15
+  - first:
+      213: 1049122982394083717
+    second: Principal Office Second Spritesheet 1_16
+  - first:
+      213: 774503521676214183
+    second: Principal Office Second Spritesheet 1_17
+  - first:
+      213: 3721654844555888684
+    second: Principal Office Second Spritesheet 1_18
+  - first:
+      213: -6403407829916267536
+    second: Principal Office Second Spritesheet 1_19
+  - first:
+      213: 4058511210160501230
+    second: Principal Office Second Spritesheet 1_20
+  - first:
+      213: -8611798632936201110
+    second: Principal Office Second Spritesheet 1_21
+  - first:
+      213: -5015295509033655398
+    second: Principal Office Second Spritesheet 1_22
+  - first:
+      213: 8103287392773356745
+    second: Principal Office Second Spritesheet 1_23
+  - first:
+      213: -5565200410488162930
+    second: Principal Office Second Spritesheet 1_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e09d8b81ce564a0800000000000000
+      internalID: -6600610087916990931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f55a8536b759150800000000000000
+      internalID: 5878740555221262217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3bdf66dffaa9e150800000000000000
+      internalID: 5902436802436782907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e772ebe730f0eb9f0800000000000000
+      internalID: -450906405004761218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b4dbd5d6363be80800000000000000
+      internalID: -8164072378117305575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 558bc4621d77acbb0800000000000000
+      internalID: -4914984303147042731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_6
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424ef1d6fb913b960800000000000000
+      internalID: 7616459704773895204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_7
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e178a1e4923868350800000000000000
+      internalID: 6018642165454505758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_8
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b5490b900b21470800000000000000
+      internalID: 8363941013644139392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d34061577880fd0800000000000000
+      internalID: -2375499866487636639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_10
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405db789436c92860800000000000000
+      internalID: 7505748183188493572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ca2912aedb68550800000000000000
+      internalID: 6162821953386359904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9291a99dc7eb5d710800000000000000
+      internalID: 1717488276347689257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd1430e6e35f8baf0800000000000000
+      internalID: -380284520030322209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0921c214e35a06a10800000000000000
+      internalID: 1900700729550312080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_15
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fffc8f7e385ceda0800000000000000
+      internalID: -5914255185193140236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5893c434bcb3f8e00800000000000000
+      internalID: 1049122982394083717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_17
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 824
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7afbcc679d69fba00800000000000000
+      internalID: 774503521676214183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c288d5aec59f5a330800000000000000
+      internalID: 3721654844555888684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_19
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbc2e161868227a0800000000000000
+      internalID: -6403407829916267536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1be86517ab25830800000000000000
+      internalID: 4058511210160501230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64a4a645cebc7880800000000000000
+      internalID: -8611798632936201110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 724
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93ef648e47166ab0800000000000000
+      internalID: -5015295509033655398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc382f53f8a47070800000000000000
+      internalID: 8103287392773356745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85befc56bf64c2b0800000000000000
+      internalID: -5565200410488162930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5648bb4b1074f04ba8c7256585b074a
+      internalID: -25005885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_26
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2158b524089364fbdf2642de8d2e15
+      internalID: -493591724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d005ae639700e9e459fb355296387234
+      internalID: 344322600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f97cc77be102740965b0c8644c35b8
+      internalID: 1908166493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_29
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e070a91086d927f4a8bf15f185a65955
+      internalID: -610769916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_30
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a77a35535948f14590b216f7317ee22
+      internalID: 934298795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_31
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 624
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06700ed0463e4cd4c9dba21bbc0fd60c
+      internalID: -959447101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad6d34bab991694cabf610ee989681e
+      internalID: -154547686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_33
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a0e460e8ea33b4bab5a945bf00a902
+      internalID: -1642999535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947add506d7524d44a70381769efcceb
+      internalID: -263189935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_35
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203704a2e181df74086ad2ed4f3959dc
+      internalID: 2105390800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c3f1f79558ab6429fbf87dcde7015b
+      internalID: 2124056488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_37
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d866b647ed07342ae42baea54f1090
+      internalID: 925139574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_38
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa85a0d7e6f1714d95474e2e0ee88f6
+      internalID: -1280633452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 524
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8621f98aa21fae246b3d03c9d026ba20
+      internalID: 1240835537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a613e564cdca9d34f9a883c541339cd7
+      internalID: -1298863503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_41
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09135de241a9e6e44853d8491d956056
+      internalID: 2057443297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_42
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6299d026b938914da2ac388e5e1b053
+      internalID: 1129685848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_43
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10efa4e7d114a143833ae850a313f67
+      internalID: 1310221519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_44
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3c526aedc4b3e4b8e628c1597f4a1e
+      internalID: -1399136562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_45
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c863aa0277ddaf6408fe3649d27286a7
+      internalID: 1445442318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7011b794eb13da64fbafbe2a9b42f64f
+      internalID: -1862989249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_47
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 424
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f747740b1816a144381cb79d7fa1f133
+      internalID: -547889214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_48
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91beef18c565fd34894cddddbf2009e7
+      internalID: 2100405314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_49
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00e7079422d9744aae242b6f3f95d92
+      internalID: -901440002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_50
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc67953f8903233418537794da9810a9
+      internalID: -643941599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_51
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f728d60b75de7184e8bf71d00cd34c98
+      internalID: -1654598190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_52
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf9ac82552fec74f8b1241893f8c94a
+      internalID: 248263566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c638609b601ff3d4a972eb0ffddeded3
+      internalID: -1888484777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_54
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 324
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c7f74c26027ba468add424eae28229
+      internalID: -522162666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878e5bec1cca16943b154ffe1e4de98e
+      internalID: -1617065377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_56
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37c92ea7f4bd884998a504847ba0f83
+      internalID: -1584939721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_57
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2dff44db976a342ae17d8016d418a0
+      internalID: 1484075003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_58
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9cbc5af2ce44234e8e58e17fdc5b104
+      internalID: -344738846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_59
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10ef88c4a19f83449613bfcc3b776ab
+      internalID: 1371558576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_60
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63a06883293bfb4d8c5f6f14efb162a
+      internalID: 268546724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_61
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49fbaa517d222f3429da0c3b5cf14abe
+      internalID: -1595337820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_62
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9366a109268445a40a776b3cd4516e1e
+      internalID: 486989042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_63
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba6ac3a51f843948b209bfa05cffe1d
+      internalID: 276786441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_64
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 224
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaf4c5ec96c59f49813a334726e8966
+      internalID: 2044954321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94283be7902a5b24f9bbd148a1f5a5a5
+      internalID: -403060755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_66
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: def53b22f3064354591dda810972f420
+      internalID: -1941541441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_67
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be9ef88c4101ba469d760ffa24025b0
+      internalID: -819729623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_68
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ad47f0a41b4754282c5d1b99d5c2ec
+      internalID: -1631402787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_69
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8b0fb84146ffb44a7fd527c4551fbc
+      internalID: 222689689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_70
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81aaa34f79b11fd43a25ac2cd5e4e6ac
+      internalID: 1760145565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_71
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2875e7b4e5d8d664fb412a5ea9e43b29
+      internalID: -264848683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_72
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e989c2f1a28734aa3d90b5d7594958
+      internalID: 232032554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_73
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2f1b9d358ffca48bf88414235d7804
+      internalID: 496869237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_74
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 124
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d31dcd2785ca8d4a9ab52106f9eacc9
+      internalID: -847021759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b9f2126bf3afd41b4364a465928d88
+      internalID: -29120352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_76
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30ca2edbe90d6a4b93100cb82cf46b1
+      internalID: -234860818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_77
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9b9d654f90b7547bed189d43e0acdc
+      internalID: -650692670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_78
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1345894f409b0be4b8a6db01deb476be
+      internalID: -1404869573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_79
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262ff6eb28f99444a845b21cd828c0a5
+      internalID: 4736231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_80
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be0dbf88d208104494e93480b605747
+      internalID: -716174695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_81
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defa61ed05405064d915911b80918c0c
+      internalID: 1311637808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_82
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6069792209fb374459460e6272b4c89d
+      internalID: 1671815184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_83
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ab6d261d3dd0b4bbc8ec31f8b8807d
+      internalID: 1860794011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Principal Office Second Spritesheet 1_84
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 24
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 885430cc4df174c4dbacd851fe56b62b
+      internalID: 1415056530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 43e42ff6bc742ee49baa786e7209d809
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":100.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Principal Office Second Spritesheet 1_0: -6600610087916990931
+      Principal Office Second Spritesheet 1_1: 5878740555221262217
+      Principal Office Second Spritesheet 1_10: 7505748183188493572
+      Principal Office Second Spritesheet 1_11: 6162821953386359904
+      Principal Office Second Spritesheet 1_12: 1717488276347689257
+      Principal Office Second Spritesheet 1_13: -380284520030322209
+      Principal Office Second Spritesheet 1_14: 1900700729550312080
+      Principal Office Second Spritesheet 1_15: -5914255185193140236
+      Principal Office Second Spritesheet 1_16: 1049122982394083717
+      Principal Office Second Spritesheet 1_17: 774503521676214183
+      Principal Office Second Spritesheet 1_18: 3721654844555888684
+      Principal Office Second Spritesheet 1_19: -6403407829916267536
+      Principal Office Second Spritesheet 1_2: 5902436802436782907
+      Principal Office Second Spritesheet 1_20: 4058511210160501230
+      Principal Office Second Spritesheet 1_21: -8611798632936201110
+      Principal Office Second Spritesheet 1_22: -5015295509033655398
+      Principal Office Second Spritesheet 1_23: 8103287392773356745
+      Principal Office Second Spritesheet 1_24: -5565200410488162930
+      Principal Office Second Spritesheet 1_25: -25005885
+      Principal Office Second Spritesheet 1_26: -493591724
+      Principal Office Second Spritesheet 1_27: 344322600
+      Principal Office Second Spritesheet 1_28: 1908166493
+      Principal Office Second Spritesheet 1_29: -610769916
+      Principal Office Second Spritesheet 1_3: -450906405004761218
+      Principal Office Second Spritesheet 1_30: 934298795
+      Principal Office Second Spritesheet 1_31: -959447101
+      Principal Office Second Spritesheet 1_32: -154547686
+      Principal Office Second Spritesheet 1_33: -1642999535
+      Principal Office Second Spritesheet 1_34: -263189935
+      Principal Office Second Spritesheet 1_35: 2105390800
+      Principal Office Second Spritesheet 1_36: 2124056488
+      Principal Office Second Spritesheet 1_37: 925139574
+      Principal Office Second Spritesheet 1_38: -1280633452
+      Principal Office Second Spritesheet 1_39: 1240835537
+      Principal Office Second Spritesheet 1_4: -8164072378117305575
+      Principal Office Second Spritesheet 1_40: -1298863503
+      Principal Office Second Spritesheet 1_41: 2057443297
+      Principal Office Second Spritesheet 1_42: 1129685848
+      Principal Office Second Spritesheet 1_43: 1310221519
+      Principal Office Second Spritesheet 1_44: -1399136562
+      Principal Office Second Spritesheet 1_45: 1445442318
+      Principal Office Second Spritesheet 1_46: -1862989249
+      Principal Office Second Spritesheet 1_47: -547889214
+      Principal Office Second Spritesheet 1_48: 2100405314
+      Principal Office Second Spritesheet 1_49: -901440002
+      Principal Office Second Spritesheet 1_5: -4914984303147042731
+      Principal Office Second Spritesheet 1_50: -643941599
+      Principal Office Second Spritesheet 1_51: -1654598190
+      Principal Office Second Spritesheet 1_52: 248263566
+      Principal Office Second Spritesheet 1_53: -1888484777
+      Principal Office Second Spritesheet 1_54: -522162666
+      Principal Office Second Spritesheet 1_55: -1617065377
+      Principal Office Second Spritesheet 1_56: -1584939721
+      Principal Office Second Spritesheet 1_57: 1484075003
+      Principal Office Second Spritesheet 1_58: -344738846
+      Principal Office Second Spritesheet 1_59: 1371558576
+      Principal Office Second Spritesheet 1_6: 7616459704773895204
+      Principal Office Second Spritesheet 1_60: 268546724
+      Principal Office Second Spritesheet 1_61: -1595337820
+      Principal Office Second Spritesheet 1_62: 486989042
+      Principal Office Second Spritesheet 1_63: 276786441
+      Principal Office Second Spritesheet 1_64: 2044954321
+      Principal Office Second Spritesheet 1_65: -403060755
+      Principal Office Second Spritesheet 1_66: -1941541441
+      Principal Office Second Spritesheet 1_67: -819729623
+      Principal Office Second Spritesheet 1_68: -1631402787
+      Principal Office Second Spritesheet 1_69: 222689689
+      Principal Office Second Spritesheet 1_7: 6018642165454505758
+      Principal Office Second Spritesheet 1_70: 1760145565
+      Principal Office Second Spritesheet 1_71: -264848683
+      Principal Office Second Spritesheet 1_72: 232032554
+      Principal Office Second Spritesheet 1_73: 496869237
+      Principal Office Second Spritesheet 1_74: -847021759
+      Principal Office Second Spritesheet 1_75: -29120352
+      Principal Office Second Spritesheet 1_76: -234860818
+      Principal Office Second Spritesheet 1_77: -650692670
+      Principal Office Second Spritesheet 1_78: -1404869573
+      Principal Office Second Spritesheet 1_79: 4736231
+      Principal Office Second Spritesheet 1_8: 8363941013644139392
+      Principal Office Second Spritesheet 1_80: -716174695
+      Principal Office Second Spritesheet 1_81: 1311637808
+      Principal Office Second Spritesheet 1_82: 1671815184
+      Principal Office Second Spritesheet 1_83: 1860794011
+      Principal Office Second Spritesheet 1_84: 1415056530
+      Principal Office Second Spritesheet 1_9: -2375499866487636639
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

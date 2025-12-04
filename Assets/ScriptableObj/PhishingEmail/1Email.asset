@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d97ad6416768f6d45b63071abe351ed8, type: 3}
+  m_Name: 1Email
+  m_EditorClassIdentifier: Assembly-CSharp::PhishingEmail
+  sender: assistenza-clienti@secure-bancaeuropea.com
+  subject: "Blocco temporaneo del suo conto \u2013 Azione richiesta entro 1 ora"
+  body: "Gentile cliente,\nabbiamo rilevato attivit\xE0 sospette sul suo conto corrente.\nPer
+    motivi di sicurezza, l\u2019accesso \xE8 stato limitato.\nSe non conferma immediatamente
+    i suoi dati, il conto verr\xE0 bloccato definitivamente entro 60 minuti.\nVerifica
+    ora al seguente link:\n<link>\nLa preghiamo di agire con urgenza per evitare
+    disservizi.\nServizio Sicurezza \u2013 Banca Europea"
+  isPhishing: 1
+  correctFeedback: Mittente non ufficiale, forte urgenza, minaccia della chiusura
+    del conto bancario.
+  incorrectFeedback: questa mail non era legittima perche

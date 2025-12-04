@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8dd9590a38a7904ea4f3b4f1dd9776f, type: 3}
+  m_Name: Player-Sara
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueAsset
+  lines:
+  - speaker: Arthur
+    text: "Ciao Sara, hai saputo cos'\xE8 successo?"
+  - speaker: Sara Kryptika
+    text: "No, cosa \xE8 accaduto?"
+  - speaker: Arthur
+    text: E' stata inviata una mail di phishing al Professor Bruno. E' stata inviata
+      dall'indirizzo mail ufficiale ma conteneva un link per rubare dati...
+  - speaker: Sara Kryptika
+    text: "Cosa...? E' gravissimo quello che \xE8 successo, com'\xE8 potuto succedere?"
+  - speaker: Arthur
+    text: "Qualcuno deve essere entrato nell'ufficio del preside e aver inviato la
+      mail da li ma ancora non so chi \xE8 stato... Per evitare che ci\xF2 accada
+      nuovamente  andiamo a cambiare la password del portale nel tuo ufficio."
+  - speaker: Sara
+    text: "Si, \xE8' un'ottima azione da fare per proteggere la sicurezza della scuola
+      ed evitare che accada di nuovo! Andiamo!"

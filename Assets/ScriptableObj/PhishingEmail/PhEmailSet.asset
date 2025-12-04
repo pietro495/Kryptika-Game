@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3de49c545b59b2a4fbf6609a3f0930f3, type: 3}
+  m_Name: PhEmailSet
+  m_EditorClassIdentifier: Assembly-CSharp::PhishingEmailSet
+  emails:
+  - {fileID: 11400000, guid: 657a5c323a9982d44899eb9ffa19f0a7, type: 2}
+  - {fileID: 11400000, guid: 81f86fa6f30014542bd5fb65533ddc1f, type: 2}
+  - {fileID: 11400000, guid: d75b51d42ecb1b147a2f326da93d63c0, type: 2}
+  - {fileID: 11400000, guid: c8cd44881bf90da4e9c9e2948dd80497, type: 2}
+  - {fileID: 11400000, guid: 2acb3acb346a6954398c2ca4123958ed, type: 2}
+  emailsPerRound: 5
+  minCorrectToPass: 5
+  shuffle: 1
+  currentSet: 5

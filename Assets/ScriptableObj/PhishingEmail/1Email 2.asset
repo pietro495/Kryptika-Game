@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d97ad6416768f6d45b63071abe351ed8, type: 3}
+  m_Name: 1Email 2
+  m_EditorClassIdentifier: Assembly-CSharp::PhishingEmail
+  sender: notifiche@fast-delivery-service.com
+  subject: "Pacco in giacenza \u2013 Pagamento urgente di 1,89\u20AC"
+  body: "Gentile destinatario,\nil suo pacco \xE8 stato bloccato nel nostro centro
+    logistico per mancato pagamento delle spese di sdoganamento.\nSe non salda l\u2019importo
+    entro oggi, il pacco verr\xE0 restituito al mittente.\nPaghi rapidamente da qui:\n
+    <link>\nGrazie per l\u2019immediata collaborazione."
+  isPhishing: 1
+  correctFeedback: "Dominio sospetto e generico (fast-delivery-service.com). Pressione
+    psicologica (\u201Cverr\xE0 restituito al mittente entro oggi\u201D)."
+  incorrectFeedback: 

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8dd9590a38a7904ea4f3b4f1dd9776f, type: 3}
+  m_Name: Player-Professor
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueAsset
+  lines:
+  - speaker: Arthur
+    text: "Professore! Ho visto cosa \xE8 successo,  era una trappola di phishing!"
+  - speaker: Prof.Bruno
+    text: 'Una trappola? Ma sembrava proprio autentica! '
+  - speaker: Arthur
+    text: "\xC8 cos\xEC che fanno i truffatori: Inviano delle mail con link malevoli
+      e una volta cliccati... sono guai! Il sito falso pu\xF2 rubare i dati di accesso
+      o installare codice pericoloso."
+  - speaker: Arthur
+    text: "Prof, ora non si agiti. Pu\xF2 succedere a tutti di essere vittima di
+      questi attacchi. Ora analizziamo la mail e troviamo una soluzione."
+  - speaker: Professore
+    text: Va bene. Ti ringrazio, davvero. Credo di aver bisogno di una mano.
