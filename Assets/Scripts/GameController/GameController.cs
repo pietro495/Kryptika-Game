@@ -82,9 +82,9 @@ public class GameController : MonoBehaviour
 
             // fallback (es. intro della prima scena)
             
-            state = GameState.MiniGameInteractable;
-            //if (introDialogue != null)
-            //StartDialogue(introDialogue, GameState.ProfessorAction);
+            //state = GameState.MiniGameInteractable;
+            if (introDialogue != null)
+            StartDialogue(introDialogue, GameState.ProfessorAction);
             
             
             //state = GameState.PhishingMiniGame;
