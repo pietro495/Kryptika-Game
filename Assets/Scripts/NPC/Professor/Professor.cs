@@ -6,8 +6,9 @@ public class Professor : MonoBehaviour
 {
 
     [Header("Interazione monitor")]
+    [SerializeField] monitor_obj_prefab monitor;
     [SerializeField] Transform monitorTransform;          // assegna il computer (o un empty) dall’Inspector
-    [SerializeField] float monitorInteractionRadius = 1f; // raggio entro cui abilitare l’interazione    [SerializeField] KeyCode interactKey = KeyCode.Space;
+    [SerializeField] float monitorInteractionRadius = 2f; // raggio entro cui abilitare l’interazione    [SerializeField] KeyCode interactKey = KeyCode.Space;
     [SerializeField] KeyCode interactKey = KeyCode.Space;
     [SerializeField] float movementSpeed = 5f;
     private bool isMoving;
@@ -18,6 +19,7 @@ public class Professor : MonoBehaviour
     public LayerMask InteractableLayer;
     public LayerMask DialogLayer;
     public LayerMask Characters;
+   // public LayerMask Icon;
 
 
     Vector2 movement; //vettore che indica la direzione del movimento in base all'input da tastiera (1,0)
@@ -62,14 +64,84 @@ public class Professor : MonoBehaviour
             animator.SetBool("isMoving", false);
         }
 
+        Detect();
+
         //Interazione del professore all'avvio del pc per leggere la mail iniziale
         if (nearMonitor() && Input.GetKeyDown(interactKey))
         {
-            UnityEngine.Debug.Log("Hai cliccato sul monitor");
+            UnityEngine.Debug.Log("Professore Ha cliccato sul monitor");
             Interact();
         }
 
 
+    }
+
+
+
+    //capisce se si trova davanti ad un oggetto interagibile ovvero capisce se c'è una collisione 
+    public void Interact()
+    {
+        //ricorda che moveX o Y dell'animator sono (-1,1) dove sta guardando il personaggio, ritorna i valori dei parametri x e y
+        var facingDir = new Vector2(animator.GetFloat("moveX"), animator.GetFloat("moveY"));
+        //calcolo il punto dove sta guardando
+        var interactPos = rb.position + facingDir*0.6f;
+        var mask = InteractableLayer;
+        //gestione della collisione per interazioni
+        var collider = Physics2D.OverlapCircle(interactPos, 0.8f,mask);
+        //se collider trova oggetto tramie overlap, trova uno script(component)
+        //di tipo T (interactable) attaccato all'oggetto del collider
+        if (collider != null)
+        {
+           // UnityEngine.Debug.Log("Ho trovato un collider");
+          //  monitor.GetInteractionIcon().Show();
+            collider.gameObject.GetComponent<Interactable>()?.Interact();
+        }
+        else
+        {
+            UnityEngine.Debug.Log("Nessun collider trovato");
+        }
+    }
+
+
+    public void Detect()
+    {
+        //ricorda che moveX o Y dell'animator sono (-1,1) dove sta guardando il personaggio, ritorna i valori dei parametri x e y
+        var facingDir = new Vector2(animator.GetFloat("moveX"), animator.GetFloat("moveY"));
+        //calcolo il punto dove sta guardando
+        var interactPos = rb.position + facingDir*0.6f;
+        var mask = InteractableLayer;
+        //gestione della collisione per interazioni
+        var collider = Physics2D.OverlapCircle(interactPos, 0.8f,mask);
+        //se collider trova oggetto tramie overlap, trova uno script(component)
+        //di tipo T (interactable) attaccato all'oggetto del collider
+        if (collider != null)
+        {
+           UnityEngine.Debug.Log("Ho trovato un iconaaa");
+           monitor.GetInteractionIcon().Show();
+            //collider.gameObject.GetComponent<Interactable>()?.Interact();
+        }
+        else if(collider == null)
+        {
+            UnityEngine.Debug.Log("Non trovo icone");
+            monitor.GetInteractionIcon().Hide();
+        }
+    }
+    
+    public void ChangeRb(bool value)
+    {   
+        if(value)   //qualsiasi è il valore della value tu lo imposti a statico; il suo contrario lo imposti a dynamic
+        {
+            UnityEngine.Debug.Log("valore isStatic"+value);
+            gameObject.transform.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
+            UnityEngine.Debug.Log("ho cambiato type a static"); 
+        }    
+        else if (!value)
+        {
+            UnityEngine.Debug.Log("valore isStatic"+value);
+            gameObject.transform.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Dynamic;
+            UnityEngine.Debug.Log("Ho cambiato tipo a dynamic");
+        }
+       // rb = RigidbodyType2D.Dynamic;
     }
 
 
@@ -100,51 +172,5 @@ public class Professor : MonoBehaviour
         bool nearMonitor = monitorTransform != null && Vector3.Distance(transform.position, monitorTransform.position) <= monitorInteractionRadius;
         return nearMonitor;
     }
-    //capisce se si trova davanti ad un oggetto interagibile ovvero capisce se c'è una collisione 
-    public void Interact()
-    {
-        //ricorda che moveX o Y dell'animator sono (-1,1) dove sta guardando il personaggio, ritorna i valori dei parametri x e y
-        var facingDir = new Vector2(animator.GetFloat("moveX"), animator.GetFloat("moveY"));
-        //calcolo il punto dove sta guardando
-        var interactPos = rb.position + facingDir*0.6f;
-        var mask = InteractableLayer;
-        //gestione della collisione per interazioni
-        var collider = Physics2D.OverlapCircle(interactPos, 0.8f,mask);
-        //se collider trova oggetto tramie overlap, trova uno script(component)
-        //di tipo T (interactable) attaccato all'oggetto del collider
-        if (collider != null)
-        {
-            collider.gameObject.GetComponent<Interactable>()?.Interact();
-        }
-        else
-        {
-            UnityEngine.Debug.Log("Nessun collider trovato");
-        }
-    }
-
-
-        public void ChangeRb(bool value)
-    {   
-        if(value)   //qualsiasi è il valore della value tu lo imposti a statico; il suo contrario lo imposti a dynamic
-        {
-            UnityEngine.Debug.Log("valore isStatic"+value);
-            gameObject.transform.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Static;
-            UnityEngine.Debug.Log("ho cambiato type a static"); 
-        }
-        
-        else if (!value)
-        {
-            UnityEngine.Debug.Log("valore isStatic"+value);
-            gameObject.transform.GetComponent<Rigidbody2D>().bodyType = RigidbodyType2D.Dynamic;
-            UnityEngine.Debug.Log("Ho cambiato tipo a dynamic");
-
-        }
-        
-       // rb = RigidbodyType2D.Dynamic;
-    }
-
- 
-
-    
 }
 

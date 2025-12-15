@@ -2,11 +2,20 @@ using UnityEngine;
 
 public class SaraPlayer : MonoBehaviour,Interactable
 {
-
+    [Header("Dialogue")]
     [SerializeField] DialogueAsset dialogueAsset;
-    [SerializeField] GameController gameController;
     [SerializeField] GameState stateAfterDialogue;
+
+    [Header("GameController")]
+    [SerializeField] GameController gameController;
+
+    [Header("IconSara")]
+    [SerializeField] Interactionicon interactionicon;
  
+    public Interactionicon GetInteractionIcon()
+    {
+        return interactionicon; 
+    }
 
     public void Interact()
     {

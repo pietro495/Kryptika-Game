@@ -18,6 +18,7 @@ public class CameraFollow2D : MonoBehaviour
 
         switch (gameController.CurrentState)
         {
+            case GameState.IntroDialog:
             case GameState.ProfessorAction:
                 target = professorTarget;
                 break;
@@ -26,12 +27,14 @@ public class CameraFollow2D : MonoBehaviour
             case GameState.FreeRoam:
             case GameState.ReadMail:
             case GameState.ParlaConPreside:
-            case GameState.Psw1MiniGame:
+           // case GameState.Psw1MiniGame:
             case GameState.ParlaSara:
             case GameState.DoorExit:
             case GameState.CambiaPassword:
             case GameState.MiniGameInteractable:
             case GameState.Puzzle:
+            case GameState.PhishingClick:
+            case GameState.SmishingMiniGame:
                 target = playerTarget;
                 break;
             default:

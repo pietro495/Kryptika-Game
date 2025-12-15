@@ -3,24 +3,48 @@ using UnityEngine.Rendering;
 
 public class MailPanelPlayer : MonoBehaviour
 {
-   // [Header ("GameObj")]
-    [SerializeField] GameObject mailUi;
-   // [Header ("Player")]
-    [SerializeField] newPlayerController currentPlayer;
-   // [Header ("Gamecontroller")]
+    [Header ("UI")]
+    [SerializeField] GameObject panelMail;
+
+    [Header ("GameObj")]
     [SerializeField] GameController gameController;
 
-    [Header ("Dialogo a chisuura della mail")]
-    [SerializeField] DialogueAsset dialog;
+    [Header ("Player")]
+    [SerializeField] newPlayerController currentPlayer;
+
+    [Header("Dialogo apertura mail")]
+    [SerializeField] DialogueAsset dialogBeforeAnalyze;
+
+    [Header ("Dialogo a chisura della mail")]
+    [SerializeField] DialogueAsset dialogFinale;
+
+    bool letto= false;
     
     bool seenLink, seenOggetto, seenAnsia,seenMittente,seenCredenziali;
 
     void Awake()
     {
-        mailUi?.SetActive(false);
+        panelMail?.SetActive(false);
     }
 
-    
+    public void OpenMail(newPlayerController player)
+    {
+        currentPlayer = player;
+        Debug.Log("Apertura della dialog box");
+        if(!letto)
+        {
+            panelMail.SetActive(true);
+            gameController.StartDialogue(dialogBeforeAnalyze, GameState.ReadMail);
+            letto=true;
+        }
+        if(letto==true)
+        {
+        seenLink = seenOggetto = seenAnsia = seenMittente = seenCredenziali = false;
+       // panelMail.SetActive(true);
+        currentPlayer.SetControlLock(true);
+        }
+    }
+
     public void OnClickLink()
     {
         //gameController.StartDialogue(dialogueAsset,GameState.ReadMail);
@@ -42,14 +66,14 @@ public class MailPanelPlayer : MonoBehaviour
     {
         Mark("mittente");
     }
+
     public void onCredenziali()
-    {Mark("credenziali");}
-    public void OpenMail()
     {
-        seenLink = seenOggetto = seenAnsia = false;
-        mailUi.SetActive(true);
-        currentPlayer.SetControlLock(true);
+        Mark("credenziali");
+
     }
+
+
 
     public void Mark(string id)
     {
@@ -68,12 +92,12 @@ public class MailPanelPlayer : MonoBehaviour
             CloseMail();
         }
     }
-//IMPORTANTE CAMBIO DI STATO A PHISHING MINI GAME TRAMITE DIALOGO QUI!!!
+
+    //IMPORTANTE CAMBIO DI STATO A PHISHING MINI GAME TRAMITE DIALOGO QUI!!!
     public void CloseMail()
     {
-        mailUi.SetActive(false);
+        panelMail.SetActive(false);
         currentPlayer.SetControlLock(false);
-        gameController.StartDialogue(dialog,GameState.PhishingMiniGame);
-        
+        gameController.StartDialogue(dialogFinale,GameState.PhishingClick);
     }
 }

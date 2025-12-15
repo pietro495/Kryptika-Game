@@ -10,7 +10,18 @@ using UnityEngine;
 public class DialogTrigger : MonoBehaviour, Interactable
 {
     //[SerializeField] Dialog dialog;
-    public enum DialogueTriggerMode { DirectAsset,Mail_Panel, Phishing, Preside,MiniGamePhishing,AfterPsw1Game,BeforePuzzle}
+    public enum DialogueTriggerMode
+    {
+        DirectAsset,
+        Mail_Panel, 
+        Phishing,
+         Preside,
+         UnlockPc,
+         MiniGamePhishing,
+         AfterMiniGamePhishing,
+         BeforePuzzle
+    }
+
     [SerializeField] DialogueTriggerMode mode = DialogueTriggerMode.DirectAsset;
     [SerializeField] DialogueAsset dialogueAsset;
 
@@ -26,6 +37,7 @@ public class DialogTrigger : MonoBehaviour, Interactable
         }
     }
 
+    /*
     //Player apre link de phishing nella prima scena
     public void player_open_link()
     {
@@ -34,6 +46,7 @@ public class DialogTrigger : MonoBehaviour, Interactable
             gameController.StartDialogue(dialogueAsset, GameState.GoToProfessor);
         }
     }
+    */
 
 
     public void Interact()
@@ -54,20 +67,27 @@ public class DialogTrigger : MonoBehaviour, Interactable
 
             //DIALOGO ALLA FINE DEL GIOCO DEL PHISHING, DOOR EXIT PER 2 SCENA
             case DialogueTriggerMode.MiniGamePhishing:
-                if(GameController.Instance.CanPerfom(GameState.PhishingMiniGame))
+                if(GameController.Instance.CanPerfom(GameState.PhishingQuiz))
                     gameController.StartDialogue(dialogueAsset,GameState.DoorExit);    
                 break;
 
+            //2 SCENA
             //DIALOGO TRA PLAYER E PRESIDE NELLA 2 SCENA INIZIALE
             case DialogueTriggerMode.Preside:
                 if(GameController.Instance.CanPerfom(GameState.ParlaConPreside))
                 gameController.StartDialogue(dialogueAsset, stateAfterDialogue);
                     break;
+            
+            //Prova
+            case DialogueTriggerMode.UnlockPc:
+                if(GameController.Instance.CanPerfom(GameState.UnlockPc))
+                gameController.StartDialogue(dialogueAsset, stateAfterDialogue);
+                    break;
 
         
             //DOPO CHE FINISCE 1 GAME SUL PSW MANAGAMENT, IMPOSTO STATO A DOOR EXIT PER ANDARE NELLA 3 SCENA
-            case DialogueTriggerMode.AfterPsw1Game:
-                    if(GameController.Instance.CanPerfom(GameState.Psw1MiniGame))
+            case DialogueTriggerMode.AfterMiniGamePhishing:
+                    if(GameController.Instance.CanPerfom(GameState.PhishingQuiz))
                     gameController.StartDialogue(dialogueAsset,stateAfterDialogue);    
                 break;
 

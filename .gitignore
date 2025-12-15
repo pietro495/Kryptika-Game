@@ -40,3 +40,7 @@ sysinfo.txt
 # Packages
 /Packages/com.unity.ide.rider
 /Packages/com.unity.ide.visualstudio
+
+
+.github/instructions/kluster-code-verify.instructions.md
+.kluster

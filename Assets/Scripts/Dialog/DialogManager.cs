@@ -8,15 +8,18 @@ public class DialogManager : MonoBehaviour
     [SerializeField] GameObject dialogBox;
     [SerializeField] TMP_Text dialogText;
     [SerializeField] int lettersPerSeconds;
+
+    //Eventi
     public event Action onShowDialogue;
     public event Action onHideDialogue;
+    public event Action onDialogueCompleted; //usato nel unlockPcFlow.cs
 
     DialogueAsset dialogueAsset;
     int currentLine;
     bool isTyping;
     bool isOpen;
 
-    public static DialogManager Instance { get; private set; }
+    public  DialogManager Instance { get; private set; }
     void Awake()
     {
         Instance = this;
@@ -59,10 +62,13 @@ public class DialogManager : MonoBehaviour
                 isOpen = false;
                 dialogBox.SetActive(false);
                 onHideDialogue?.Invoke();
+                onDialogueCompleted?.Invoke();
                 dialogueAsset = null;
             }
         }
     }
+    
+
 
     IEnumerator TypeDialog(DialogueLine line)
     {
